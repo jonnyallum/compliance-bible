@@ -91,7 +91,7 @@ compliance-bible/
 ├── 09-work-at-height/
 ├── 10-risk-assessments/
 ├── 11-contractor-management/
-├── 12-waste-environment/
+├── 12-permit-to-work/
 ├── 13-building-estate-management/
 ├── 14-care-home-relevance/
 ├── 15-safari-visitor-attraction-relevance/

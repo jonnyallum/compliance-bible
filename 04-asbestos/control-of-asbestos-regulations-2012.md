@@ -1,5 +1,16 @@
 # Control of Asbestos Regulations 2012
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "Control of Asbestos Regulations 2012"
+  rag_tags:
+    - law:control-of-asbestos
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 The Control of Asbestos Regulations 2012 require asbestos risks to be identified, recorded, managed and controlled. In non-domestic premises, the key FM duty is Regulation 4: the duty to manage asbestos.

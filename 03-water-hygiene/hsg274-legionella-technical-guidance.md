@@ -1,5 +1,16 @@
 # HSG274 Legionella Technical Guidance
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "HSG274 Legionella Technical Guidance"
+  rag_tags:
+    - law:water-hygiene
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 HSG274 is HSE technical guidance that supports ACOP L8. It gives practical guidance for controlling Legionella risk in water systems.

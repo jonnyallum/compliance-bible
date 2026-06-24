@@ -1,5 +1,16 @@
 # PUWER Overview
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "PUWER Overview"
+  rag_tags:
+    - law:puwer
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 The Provision and Use of Work Equipment Regulations 1998 require work equipment to be suitable, maintained, inspected where needed and used only by people with adequate information, instruction and training.

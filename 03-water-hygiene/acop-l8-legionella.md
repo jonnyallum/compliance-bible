@@ -1,5 +1,16 @@
 # ACOP L8 Legionella Compliance
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "ACOP L8 Legionella Compliance"
+  rag_tags:
+    - law:water-hygiene
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 ACOP L8 is the Health and Safety Executive Approved Code of Practice for controlling Legionella bacteria in water systems. It supports legal duties under the Health and Safety at Work etc. Act 1974 and COSHH.

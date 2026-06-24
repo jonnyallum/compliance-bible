@@ -1,5 +1,16 @@
 # COSHH Regulations 2002
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "COSHH Regulations 2002"
+  rag_tags:
+    - law:coshh
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 The Control of Substances Hazardous to Health Regulations 2002 require employers to prevent or adequately control exposure to substances that can harm health.

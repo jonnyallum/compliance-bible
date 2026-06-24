@@ -1,5 +1,16 @@
 # Health and Safety at Work etc. Act 1974
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "Health and Safety at Work etc. Act 1974"
+  rag_tags:
+    - law:core
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 The Health and Safety at Work etc. Act 1974 is the foundation of workplace health and safety law in Great Britain. It places broad duties on employers, employees, self-employed people and those who control premises to protect people from risks arising from work activities.

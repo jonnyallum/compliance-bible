@@ -1,5 +1,16 @@
 # Contractor Management Framework
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "Contractor Management Framework"
+  rag_tags:
+    - process:contractor-management
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 Contractor management is the system for selecting competent contractors, agreeing safe work, controlling site access, monitoring performance and keeping evidence that the work was managed properly.

@@ -1,5 +1,16 @@
 # Permit-to-Work Framework
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "Permit-to-Work Framework"
+  rag_tags:
+    - process:permit-to-work
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 A permit to work is a formal written control for higher-risk work. It confirms the task, hazards, precautions, authorisation, time limits, handback and evidence before the work starts.

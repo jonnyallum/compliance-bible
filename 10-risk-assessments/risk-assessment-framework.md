@@ -1,5 +1,16 @@
 # Risk Assessment Framework
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "Risk Assessment Framework"
+  rag_tags:
+    - process:risk-assessment
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 Risk assessment is the practical process of identifying what could cause harm, deciding who may be affected, choosing proportionate controls and proving those controls are reviewed.

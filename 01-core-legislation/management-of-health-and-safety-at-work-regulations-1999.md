@@ -1,5 +1,16 @@
 # Management of Health and Safety at Work Regulations 1999
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "Management of Health and Safety at Work Regulations 1999"
+  rag_tags:
+    - law:core
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 The Management of Health and Safety at Work Regulations 1999 turn the broad duties of the Health and Safety at Work etc. Act into a practical management system. They require employers to assess risks, plan controls, appoint competent people, provide information and prepare for emergencies.

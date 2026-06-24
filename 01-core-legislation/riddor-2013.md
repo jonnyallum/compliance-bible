@@ -1,5 +1,16 @@
 # RIDDOR 2013
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "RIDDOR 2013"
+  rag_tags:
+    - law:core
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 RIDDOR means the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013. It requires responsible persons to report certain work-related deaths, injuries, occupational diseases and dangerous occurrences to the relevant enforcing authority.

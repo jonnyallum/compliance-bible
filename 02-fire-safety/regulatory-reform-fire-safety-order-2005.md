@@ -1,5 +1,16 @@
 # Regulatory Reform Fire Safety Order 2005
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "Regulatory Reform Fire Safety Order 2005"
+  rag_tags:
+    - law:fire-safety-order
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 The Regulatory Reform Fire Safety Order 2005 is the main fire safety legislation for non-domestic premises in England and Wales. It requires the Responsible Person to assess fire risk, put suitable fire precautions in place and maintain them.

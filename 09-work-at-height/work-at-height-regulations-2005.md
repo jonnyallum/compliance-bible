@@ -1,5 +1,16 @@
 # Work at Height Regulations 2005
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "Work at Height Regulations 2005"
+  rag_tags:
+    - law:work-at-height
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 The Work at Height Regulations 2005 require work at height to be avoided where reasonably practicable. Where it cannot be avoided, it must be properly planned, supervised and carried out safely using suitable equipment and competent people.

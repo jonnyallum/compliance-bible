@@ -51,8 +51,6 @@ create table if not exists contractor_documents (
   created_at timestamptz not null default now()
 );
 
-create unique index if not exists idx_assets_site_reference on assets(site_id, reference);
-
 create table if not exists assets (
   id uuid primary key default gen_random_uuid(),
   site_id uuid not null references sites(id) on delete cascade,
@@ -68,7 +66,7 @@ create table if not exists assets (
   created_at timestamptz not null default now()
 );
 
-create unique index if not exists idx_requirements_area_title on compliance_requirements(compliance_area_id, title);
+create unique index if not exists idx_assets_site_reference on assets(site_id, reference);
 
 create table if not exists compliance_areas (
   id uuid primary key default gen_random_uuid(),
@@ -79,8 +77,6 @@ create table if not exists compliance_areas (
   rag_tags text[] not null default '{}',
   created_at timestamptz not null default now()
 );
-
-create unique index if not exists idx_task_templates_requirement_name on task_templates(requirement_id, name);
 
 create table if not exists compliance_requirements (
   id uuid primary key default gen_random_uuid(),
@@ -93,6 +89,8 @@ create table if not exists compliance_requirements (
   rag_tags text[] not null default '{}',
   created_at timestamptz not null default now()
 );
+
+create unique index if not exists idx_requirements_area_title on compliance_requirements(compliance_area_id, title);
 
 create table if not exists task_templates (
   id uuid primary key default gen_random_uuid(),
@@ -108,6 +106,8 @@ create table if not exists task_templates (
   active boolean not null default true,
   created_at timestamptz not null default now()
 );
+
+create unique index if not exists idx_task_templates_requirement_name on task_templates(requirement_id, name);
 
 create table if not exists scheduled_tasks (
   id uuid primary key default gen_random_uuid(),

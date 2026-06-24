@@ -1,5 +1,16 @@
 # Workplace Health, Safety and Welfare Regulations 1992
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "Workplace Health, Safety and Welfare Regulations 1992"
+  rag_tags:
+    - law:core
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 The Workplace Health, Safety and Welfare Regulations 1992 set minimum standards for the physical workplace. They cover the basic conditions people need to work safely and with dignity: cleanliness, temperature, ventilation, lighting, toilets, washing facilities, drinking water, rest areas, safe floors, traffic routes and maintenance.

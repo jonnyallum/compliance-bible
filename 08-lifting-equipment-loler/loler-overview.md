@@ -1,5 +1,16 @@
 # LOLER Overview
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "LOLER Overview"
+  rag_tags:
+    - law:loler
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 The Lifting Operations and Lifting Equipment Regulations 1998 require lifting equipment and lifting operations to be strong enough, stable, properly planned, supervised and thoroughly examined.

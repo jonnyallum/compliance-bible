@@ -1,5 +1,16 @@
 # Electricity at Work Regulations 1989
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: compliance_content
+  title: "Electricity at Work Regulations 1989"
+  rag_tags:
+    - law:electricity-at-work
+    - product:fm-control-hub
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 The Electricity at Work Regulations 1989 require electrical systems and work activities to be designed, installed, maintained and operated so they do not give rise to danger.
