@@ -21,12 +21,12 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Regulatory Reform Fire Safety Order 2005.
 - [ ] Fire Safety Act 2021.
 - [ ] Fire Safety England Regulations 2022.
-- [ ] Control of Asbestos Regulations 2012.
-- [ ] COSHH Regulations 2002.
-- [ ] Electricity at Work Regulations 1989.
-- [ ] PUWER 1998.
-- [ ] LOLER 1998.
-- [ ] Work at Height Regulations 2005.
+- [x] Control of Asbestos Regulations 2012.
+- [x] COSHH Regulations 2002.
+- [x] Electricity at Work Regulations 1989.
+- [x] PUWER 1998.
+- [x] LOLER 1998.
+- [x] Work at Height Regulations 2005.
 - [ ] Manual Handling Operations Regulations 1992.
 - [ ] PPE at Work Regulations.
 - [x] ACOP L8 Legionella guidance.

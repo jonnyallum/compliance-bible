@@ -16,7 +16,14 @@ All notable changes to this repository will be recorded here.
 - Added Wave 1 compliance page: Regulatory Reform Fire Safety Order 2005.
 - Added Wave 1 compliance page: ACOP L8 Legionella compliance.
 - Added Wave 1 compliance page: HSG274 Legionella technical guidance.
+- Added Wave 2 compliance page: Control of Asbestos Regulations 2012.
+- Added Wave 2 compliance page: COSHH Regulations 2002.
+- Added Wave 2 compliance page: Electricity at Work Regulations 1989.
+- Added Wave 2 compliance page: PUWER overview.
+- Added Wave 2 compliance page: LOLER overview.
+- Added Wave 2 compliance page: Work at Height Regulations 2005.
 - Updated TODO tracker to mark completed Wave 1 compliance pages.
+- Updated TODO tracker to mark completed Wave 2 compliance pages.
 
 ### Production Notes
 
