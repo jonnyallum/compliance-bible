@@ -13,12 +13,12 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 
 ## Phase 1: Core Compliance Pages
 
-- [ ] Health and Safety at Work etc. Act 1974.
-- [ ] Management of Health and Safety at Work Regulations 1999.
-- [ ] Workplace Health, Safety and Welfare Regulations 1992.
-- [ ] RIDDOR 2013.
+- [x] Health and Safety at Work etc. Act 1974.
+- [x] Management of Health and Safety at Work Regulations 1999.
+- [x] Workplace Health, Safety and Welfare Regulations 1992.
+- [x] RIDDOR 2013.
 - [ ] First Aid at Work Regulations.
-- [ ] Regulatory Reform Fire Safety Order 2005.
+- [x] Regulatory Reform Fire Safety Order 2005.
 - [ ] Fire Safety Act 2021.
 - [ ] Fire Safety England Regulations 2022.
 - [ ] Control of Asbestos Regulations 2012.
@@ -29,8 +29,8 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [ ] Work at Height Regulations 2005.
 - [ ] Manual Handling Operations Regulations 1992.
 - [ ] PPE at Work Regulations.
-- [ ] ACOP L8 Legionella guidance.
-- [ ] HSG274 Legionella technical guidance.
+- [x] ACOP L8 Legionella guidance.
+- [x] HSG274 Legionella technical guidance.
 - [ ] Waste Duty of Care.
 - [ ] Environmental Protection Act 1990.
 
