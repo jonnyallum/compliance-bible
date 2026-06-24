@@ -43,22 +43,22 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Asset compliance framework.
 - [x] PPM and statutory inspection framework.
 - [ ] Incident escalation framework.
-- [ ] Evidence retention framework.
+- [x] Evidence retention framework.
 
 ## Phase 3: Templates
 
-- [ ] Fire logbook template.
-- [ ] Fire door inspection checklist.
-- [ ] Emergency lighting test log.
-- [ ] Legionella temperature log.
-- [ ] Flushing regime log.
-- [ ] Contractor onboarding checklist.
-- [ ] RAMS review checklist.
-- [ ] Permit-to-work form.
-- [ ] Accident and incident report form.
-- [ ] RIDDOR decision tree.
-- [ ] Monthly FM compliance dashboard.
-- [ ] Annual compliance calendar.
+- [x] Fire logbook template.
+- [x] Fire door inspection checklist.
+- [x] Emergency lighting test log.
+- [x] Legionella temperature log.
+- [x] Flushing regime log.
+- [x] Contractor onboarding checklist.
+- [x] RAMS review checklist.
+- [x] Permit-to-work form.
+- [x] Accident and incident report form.
+- [x] RIDDOR decision tree.
+- [x] Monthly FM compliance dashboard.
+- [x] Annual compliance calendar.
 
 ## Phase 4: Product Mapping
 
@@ -68,7 +68,15 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Create evidence requirement schema.
 - [x] Create inspection frequency schema.
 - [x] Create AI retrieval tag schema.
-- [ ] Create seed-data plan for Supabase.
+- [x] Create seed-data plan for Supabase.
+
+## Wave 4: Product Artefacts
+
+- [x] Build 50 production FM templates.
+- [x] Build FM Control Hub database schema.
+- [x] Build Supabase seed data.
+- [x] Build audit checklist library.
+- [x] Build evidence retention policy.
 
 ## Phase 5: Longleat / Visitor Attraction Relevance
 

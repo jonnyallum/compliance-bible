@@ -27,9 +27,15 @@ All notable changes to this repository will be recorded here.
 - Added Wave 3 operational framework: permit-to-work framework.
 - Added Wave 3 system mapping: statutory compliance matrix.
 - Added Wave 3 system mapping: FM Control Hub compliance schema.
+- Added Wave 4 template library with 50 production FM operational templates.
+- Added Wave 4 audit checklist library.
+- Added Wave 4 evidence retention policy.
+- Added Wave 4 FM Control Hub Supabase database schema.
+- Added Wave 4 Supabase seed data.
 - Updated TODO tracker to mark completed Wave 1 compliance pages.
 - Updated TODO tracker to mark completed Wave 2 compliance pages.
 - Updated TODO tracker to mark completed Wave 3 operational framework and schema items.
+- Updated TODO tracker to mark completed Wave 4 product artefacts.
 
 ### Production Notes
 
