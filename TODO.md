@@ -7,9 +7,9 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Create repository.
 - [x] Add production README.
 - [x] Add TODO tracker.
-- [ ] Add CHANGELOG.
-- [ ] Add CONTRIBUTING guide.
-- [ ] Add COMMIT_GUIDE.
+- [x] Add CHANGELOG.
+- [x] Add CONTRIBUTING guide.
+- [x] Add COMMIT_GUIDE.
 
 ## Phase 1: Core Compliance Pages
 
