@@ -36,12 +36,12 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 
 ## Phase 2: FM Operating Frameworks
 
-- [ ] Risk assessment framework.
-- [ ] Contractor approval framework.
-- [ ] RAMS review framework.
-- [ ] Permit-to-work framework.
-- [ ] Asset compliance framework.
-- [ ] PPM and statutory inspection framework.
+- [x] Risk assessment framework.
+- [x] Contractor approval framework.
+- [x] RAMS review framework.
+- [x] Permit-to-work framework.
+- [x] Asset compliance framework.
+- [x] PPM and statutory inspection framework.
 - [ ] Incident escalation framework.
 - [ ] Evidence retention framework.
 
@@ -65,9 +65,9 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [ ] Map all compliance areas to FM Control Hub modules.
 - [ ] Map all compliance areas to Compliance Hub modules.
 - [ ] Create compliance taxonomy.
-- [ ] Create evidence requirement schema.
-- [ ] Create inspection frequency schema.
-- [ ] Create AI retrieval tag schema.
+- [x] Create evidence requirement schema.
+- [x] Create inspection frequency schema.
+- [x] Create AI retrieval tag schema.
 - [ ] Create seed-data plan for Supabase.
 
 ## Phase 5: Longleat / Visitor Attraction Relevance

@@ -22,8 +22,14 @@ All notable changes to this repository will be recorded here.
 - Added Wave 2 compliance page: PUWER overview.
 - Added Wave 2 compliance page: LOLER overview.
 - Added Wave 2 compliance page: Work at Height Regulations 2005.
+- Added Wave 3 operational framework: risk assessment framework.
+- Added Wave 3 operational framework: contractor management framework.
+- Added Wave 3 operational framework: permit-to-work framework.
+- Added Wave 3 system mapping: statutory compliance matrix.
+- Added Wave 3 system mapping: FM Control Hub compliance schema.
 - Updated TODO tracker to mark completed Wave 1 compliance pages.
 - Updated TODO tracker to mark completed Wave 2 compliance pages.
+- Updated TODO tracker to mark completed Wave 3 operational framework and schema items.
 
 ### Production Notes
 
