@@ -1,5 +1,16 @@
 # Statutory Compliance Matrix
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: statutory_matrix
+  rag_tags:
+    - product:fm-control-hub
+    - product:compliance-hub
+    - process:inspection
+    - process:evidence
+```
+
 ## Plain English Summary
 
 A statutory compliance matrix turns legal and good-practice duties into a practical FM schedule. It shows what must be checked, how often, who owns it, what evidence is required and what should happen when something fails.

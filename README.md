@@ -1,6 +1,27 @@
 # Compliance Bible
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: repository_readme
+  rag_tags:
+    - repo:compliance-bible
+    - product:fm-control-hub
+    - product:compliance-hub
+    - audience:longleat-interview
+```
+
 Production-grade UK Facilities Management compliance knowledge base for FM Control Hub, Compliance Hub, AI retrieval, audits, training and operational reference.
+
+## Navigation
+
+- [Master Index](MASTER_INDEX.md)
+- [Quick Start](QUICK_START.md)
+- [Roadmap](ROADMAP.md)
+- [Glossary](GLOSSARY.md)
+- [Tags](TAGS.md)
+- [How to use this in FM Control Hub](HOW_TO_USE_IN_FM_CONTROL_HUB.md)
+- [How to use this for Longleat interview prep](HOW_TO_USE_FOR_LONGLEAT_INTERVIEW_PREP.md)
 
 ## Mission
 

@@ -1,5 +1,15 @@
 # Evidence Retention Policy
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: evidence_retention_policy
+  rag_tags:
+    - process:evidence-retention
+    - process:legal-hold
+    - product:compliance-hub
+```
+
 ## Plain English Summary
 
 Evidence retention is the rule for how long FM compliance records must be kept, who owns them, where they are stored and when they can be archived or deleted.

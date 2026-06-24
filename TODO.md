@@ -78,6 +78,18 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Build audit checklist library.
 - [x] Build evidence retention policy.
 
+## Wave 5: Navigation and Product Readiness
+
+- [x] Add MASTER_INDEX.md.
+- [x] Add QUICK_START.md.
+- [x] Add ROADMAP.md.
+- [x] Add GLOSSARY.md.
+- [x] Add TAGS.md.
+- [x] Cross-link major sections.
+- [x] Add AI/RAG metadata blocks to key docs.
+- [x] Add FM Control Hub usage page.
+- [x] Add Longleat interview prep usage page.
+
 ## Phase 5: Longleat / Visitor Attraction Relevance
 
 - [ ] Visitor attraction compliance overview.

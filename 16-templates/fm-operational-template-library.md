@@ -1,5 +1,16 @@
 # FM Operational Template Library
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: template_library
+  template_count: 50
+  rag_tags:
+    - product:fm-control-hub
+    - product:compliance-hub
+    - process:evidence-capture
+```
+
 ## Plain English Summary
 
 This library contains 50 production-ready Facilities Management templates for compliance, contractor control, safety, inspections, evidence, audit and operational escalation.

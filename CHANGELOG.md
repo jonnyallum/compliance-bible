@@ -32,10 +32,15 @@ All notable changes to this repository will be recorded here.
 - Added Wave 4 evidence retention policy.
 - Added Wave 4 FM Control Hub Supabase database schema.
 - Added Wave 4 Supabase seed data.
+- Added Wave 5 navigation and product readiness layer.
+- Added master index, quick start, roadmap, glossary and tag taxonomy.
+- Added FM Control Hub usage and Longleat interview prep usage pages.
+- Added AI/RAG metadata block to the repository README.
 - Updated TODO tracker to mark completed Wave 1 compliance pages.
 - Updated TODO tracker to mark completed Wave 2 compliance pages.
 - Updated TODO tracker to mark completed Wave 3 operational framework and schema items.
 - Updated TODO tracker to mark completed Wave 4 product artefacts.
+- Updated TODO tracker to mark completed Wave 5 navigation and readiness items.
 
 ### Production Notes
 

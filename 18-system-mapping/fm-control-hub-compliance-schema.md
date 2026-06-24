@@ -1,5 +1,17 @@
 # FM Control Hub Compliance Schema
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: product_schema
+  product: FM Control Hub
+  rag_tags:
+    - product:fm-control-hub
+    - product:supabase
+    - process:evidence-upload
+    - process:task-recurrence
+```
+
 ## Plain English Summary
 
 This schema describes how FM Control Hub should structure compliance data so that statutory tasks, assets, evidence, contractors, permits, actions, dashboards and AI retrieval all work from the same source of truth.

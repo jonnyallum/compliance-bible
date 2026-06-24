@@ -1,5 +1,15 @@
 # FM Audit Checklist Library
 
+```yaml
+ai_metadata:
+  repo: compliance-bible
+  document_type: audit_checklist_library
+  rag_tags:
+    - process:audit
+    - product:compliance-hub
+    - product:fm-control-hub
+```
+
 ## Plain English Summary
 
 This library gives Facilities Managers practical audit checklists for statutory compliance, contractor control, evidence quality and visitor attraction operations.
