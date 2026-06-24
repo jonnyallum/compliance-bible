@@ -22,6 +22,21 @@ Completed:
 - Audit checklist library.
 - Evidence retention policy.
 - Navigation, index, tags and product readiness pages.
+- App integration plan for FM Control Hub, Compliance Hub, Supabase and AI/RAG.
+
+## Next Target Version
+
+Target: `0.2.0`
+
+The next release should prove that the Compliance Bible can be imported into a working app layer, not only read as Markdown.
+
+Required v0.2.0 outcomes:
+
+- Apply the Supabase schema in a test project.
+- Import seed data in the documented order.
+- Build the first RAG index from tagged Markdown chunks.
+- Create dashboard widgets from statutory tasks, evidence and actions.
+- Wire the first AI assistant prompts to retrieved Compliance Bible chunks.
 
 ## Next Compliance Content
 
@@ -63,5 +78,6 @@ Priority pages:
 3. Supabase schema: baseline complete.
 4. Seed data: baseline complete.
 5. Evidence and audit workflows: baseline complete.
-6. RAG retrieval QA: next milestone.
-7. Product UI mapping: next milestone.
+6. App integration plan: complete for v0.2.0 target.
+7. RAG retrieval QA: next milestone.
+8. Product UI mapping: next milestone.

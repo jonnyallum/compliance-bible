@@ -62,8 +62,8 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 
 ## Phase 4: Product Mapping
 
-- [ ] Map all compliance areas to FM Control Hub modules.
-- [ ] Map all compliance areas to Compliance Hub modules.
+- [x] Map all compliance areas to FM Control Hub modules.
+- [x] Map all compliance areas to Compliance Hub modules.
 - [ ] Create compliance taxonomy.
 - [x] Create evidence requirement schema.
 - [x] Create inspection frequency schema.
@@ -98,6 +98,18 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Create RELEASE_NOTES.md.
 - [x] Create VERSION set to 0.1.0.
 - [x] Fix clear defects found during audit.
+
+## Wave 7: App Integration Planning
+
+- [x] Create APP_INTEGRATION_PLAN.md.
+- [x] Map content types to FM Control Hub modules.
+- [x] Map content types to Compliance Hub modules.
+- [x] Define Supabase import order.
+- [x] Define RAG chunking strategy.
+- [x] Define AI assistant prompts.
+- [x] Define dashboard widgets.
+- [x] Define minimum viable integration for v0.2.0.
+- [x] Set next target version to 0.2.0 in ROADMAP.md.
 
 ## Phase 5: Longleat / Visitor Attraction Relevance
 

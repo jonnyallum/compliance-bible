@@ -37,6 +37,8 @@ All notable changes to this repository will be recorded here.
 - Added FM Control Hub usage and Longleat interview prep usage pages.
 - Added AI/RAG metadata block to the repository README.
 - Added Wave 6 quality audit, fix list, release notes and VERSION 0.1.0.
+- Added Wave 7 app integration plan for FM Control Hub, Compliance Hub, Supabase and AI/RAG.
+- Set next target version to 0.2.0 in the roadmap.
 - Fixed Supabase schema index ordering.
 - Added missing AI/RAG metadata blocks to compliance and framework content.
 - Corrected README folder naming for the permit-to-work framework.
@@ -46,6 +48,7 @@ All notable changes to this repository will be recorded here.
 - Updated TODO tracker to mark completed Wave 4 product artefacts.
 - Updated TODO tracker to mark completed Wave 5 navigation and readiness items.
 - Updated TODO tracker to mark completed Wave 6 quality audit and release readiness items.
+- Updated TODO tracker to mark completed Wave 7 app integration planning items.
 
 ### Production Notes
 
